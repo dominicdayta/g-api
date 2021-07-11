@@ -1,0 +1,21 @@
+{
+  "name": "g-api",
+  "version": "1.0.0",
+  "description": "GFriend Members API. Demonstration of writing an API using Node and Express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "api",
+    "gfriend"
+  ],
+  "author": "Dominic Dayta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "exprss": "0.0.1-security"
+  }
+}
